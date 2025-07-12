@@ -1,116 +1,66 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Voca - Privacy Policy</title>
-    <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-        }
-        h1 {
-            color: #007AFF;
-            border-bottom: 2px solid #007AFF;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #555;
-            margin-top: 30px;
-        }
-        .last-updated {
-            background: #f5f5f5;
-            padding: 10px;
-            border-radius: 5px;
-            margin-bottom: 20px;
-        }
-        .contact {
-            background: #e8f5e8;
-            padding: 15px;
-            border-radius: 5px;
-            margin-top: 30px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Privacy Policy for Voca</h1>
-    
-    <div class="last-updated">
-        <strong>Last updated:</strong> January 15, 2025
-    </div>
+# Privacy Policy for Voca
 
-    <h2>Overview</h2>
-    <p>Voca ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how our AI personal assistant app for iPhone and Apple Watch handles information.</p>
+**Last updated:** January 15, 2025
 
-    <h2>Information We Collect</h2>
-    <p><strong>We do not collect, store, or transmit any personal information.</strong></p>
-    
-    <ul>
-        <li><strong>No Account Required:</strong> Voca does not require user registration or accounts</li>
-        <li><strong>No Personal Data Collection:</strong> We do not collect names, email addresses, phone numbers, or other personal identifiers</li>
-        <li><strong>No Usage Analytics:</strong> We do not track how you use the app</li>
-        <li><strong>No Location Data:</strong> We do not access or store location information</li>
-    </ul>
+## Overview
 
-    <h2>How Your Data Is Handled</h2>
-    
-    <h3>Conversation Data</h3>
-    <ul>
-        <li>All conversations are stored <strong>locally</strong> on your device</li>
-        <li>Conversation history can be cleared at any time</li>
-        <li>We do not have access to your conversations</li>
-        <li>Data is protected by iOS/watchOS security features</li>
-    </ul>
+Voca ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how our AI personal assistant app for iPhone and Apple Watch handles information.
 
-    <h3>Voice Input</h3>
-    <ul>
-        <li>Voice input is processed using Apple's Speech framework</li>
-        <li>Voice data follows Apple's privacy guidelines</li>
-        <li>No voice recordings are stored by our app</li>
-    </ul>
+## Information We Collect
 
-    <h3>AI Service Communication</h3>
-    <ul>
-        <li>When you send messages, they are transmitted to AI service providers</li>
-        <li>This communication is secured using standard HTTPS encryption</li>
-        <li>AI service privacy policies apply to data sent to their servers</li>
-        <li>We recommend reviewing your AI service provider's privacy policy</li>
-    </ul>
+**We do not collect, store, or transmit any personal information.**
 
-    <h2>Data Security</h2>
-    <ul>
-        <li>All local data is protected by iOS/watchOS security features</li>
-        <li>Network communications use industry-standard HTTPS encryption</li>
-        <li>No advertising networks or third-party analytics</li>
-        <li>No data monetization or selling</li>
-    </ul>
+- **No Account Required:** Voca does not require user registration or accounts
+- **No Personal Data Collection:** We do not collect names, email addresses, phone numbers, or other personal identifiers
+- **No Usage Analytics:** We do not track how you use the app
+- **No Location Data:** We do not access or store location information
 
-    <h2>Third-Party Services</h2>
-    <p>Voca may integrate with AI service providers to deliver responses. When you use these features:</p>
-    <ul>
-        <li>Your messages are sent to the AI service provider</li>
-        <li>Data handling is governed by the AI provider's privacy policy</li>
-        <li>We do not store or access responses from AI services</li>
-    </ul>
+## How Your Data Is Handled
 
-    <h2>Children's Privacy</h2>
-    <p>Our app does not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided personal information, please contact us.</p>
+### Conversation Data
+- All conversations are stored **locally** on your device
+- Conversation history can be cleared at any time
+- We do not have access to your conversations
+- Data is protected by iOS/watchOS security features
 
-    <h2>Changes to This Privacy Policy</h2>
-    <p>We may update this Privacy Policy from time to time. We will notify users of any material changes by updating the "Last updated" date at the top of this Privacy Policy.</p>
+### Voice Input
+- Voice input is processed using Apple's Speech framework
+- Voice data follows Apple's privacy guidelines
+- No voice recordings are stored by our app
 
-    <h2>Your Rights</h2>
-    <p>Since we do not collect personal data, there is no personal data to access, modify, or delete from our servers. You can clear all local data by deleting and reinstalling the app.</p>
+### AI Service Communication
+- When you send messages, they are transmitted to AI service providers
+- This communication is secured using standard HTTPS encryption
+- AI service privacy policies apply to data sent to their servers
+- We recommend reviewing your AI service provider's privacy policy
 
-    <div class="contact">
-        <h2>Contact Us</h2>
-        <p>If you have any questions about this Privacy Policy, please contact us at:</p>
-        <p><strong>Email:</strong> your-email@example.com</p>
-        <p><strong>Subject Line:</strong> Voca Privacy Policy Inquiry</p>
-    </div>
-</body>
-</html>
+## Data Security
+
+- All local data is protected by iOS/watchOS security features
+- Network communications use industry-standard HTTPS encryption
+- No advertising networks or third-party analytics
+- No data monetization or selling
+
+## Third-Party Services
+
+Voca may integrate with AI service providers to deliver responses. When you use these features:
+
+- Your messages are sent to the AI service provider
+- Data handling is governed by the AI provider's privacy policy
+- We do not store or access responses from AI services
+
+## Children's Privacy
+
+Our app does not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided personal information, please contact us.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify users of any material changes by updating the "Last updated" date at the top of this Privacy Policy.
+
+## Your Rights
+
+Since we do not collect personal data, there is no personal data to access, modify, or delete from our servers. You can clear all local data by deleting and reinstalling the app.
+
+---
+
+*This privacy policy is designed to be transparent about our data practices and ensure user privacy protection.*
